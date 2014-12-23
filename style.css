@@ -1,0 +1,8 @@
+body {
+    background-image: url(assets/logo.jpg)
+}
+
+.well {
+    opacity: .9;
+    filter: alpha(opacity=60);
+}
